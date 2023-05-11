@@ -1,0 +1,117 @@
+body {
+    background-color: rgb(26, 26, 26);
+    text-shadow: 1px 1px 2px rgb(255, 255, 255);
+    font-size:30;
+    font-family: arial;
+}
+p {
+    color: azure;
+}
+.forexample {
+    color: orange;
+}
+#ident {
+    color: #ffff;
+    font-weight:bold
+}
+h1 {
+    text-shadow: 1px 1px 3px rgb(255, 255, 255);
+}
+h1 {
+    font-style: italic;
+}
+h1 {
+    font-size:50;
+}
+#text {
+    color:aliceblue
+}
+button{
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(3, 3, 3);
+    border-color: white;
+    font-size: 30px;
+    transition: all 0.3s ease;
+}
+button:hover{
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    background-color: white;
+}
+.resultat_div{
+    border: 1px white solid;
+    border-radius: 15px;
+    margin-left: 430px;
+    margin-right: 430px;
+    padding:10px;
+}
+.ingrid_div{
+    border: 1px white solid;
+    border-radius: 15px;
+    margin-left: 700px;
+    margin-right: 700px;
+    padding:10px;
+}
+.narez_div{
+    border: 1px white solid;
+    border-radius: 15px;
+    margin-left: 430px;
+    margin-right: 430px;
+    padding:10px;
+}
+.narez_div{
+    border: 1px white solid;
+    border-radius: 15px;
+    margin-left: 430px;
+    margin-right: 430px;
+    padding:10px;
+}
+.mayandsol_div{
+    border: 1px white solid;
+    border-radius: 15px;
+    margin-left: 430px;
+    margin-right: 430px;
+    padding:10px;
+}
+.prip_div{
+    border: 1px white solid;
+    border-radius: 15px;
+    margin-left: 430px;
+    margin-right: 430px;
+    padding:10px;
+}
+.mikr_div{
+    border: 1px white solid;
+    border-radius: 15px;
+    margin-left: 390px;
+    margin-right: 390px;
+    padding:10px;
+}
+.tompast_div{
+    border: 1px white solid;
+    border-radius: 15px;
+    margin-left: 430px;
+    margin-right: 430px;
+    padding:10px;
+}
+.gotovo_div{
+    border: 1px white solid;
+    border-radius: 15px;
+    margin-left: 425px;
+    margin-right: 410px;
+    padding:10px;
+}
+.istoch_div{
+    border: 1px white solid;
+    border-radius: 15px;
+    margin-left: 650px;
+    margin-right: 650px;
+    padding:10px;
+}
+img{
+    border-radius: 15px;
+}

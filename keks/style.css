@@ -1,0 +1,138 @@
+body {
+    background-color: rgb(26, 26, 26);
+    text-shadow: 1px 1px 2px rgb(112, 112, 112);
+    font-size:30;
+    font-family: arial;
+}
+p {
+    color: azure;
+}
+.forexample {
+    color: orange;
+}
+#ident {
+    color: #ffff;
+    font-weight:bold
+}
+h1 {
+    text-shadow: 1px 1px 3px rgb(255, 255, 255);
+}
+h1 {
+    font-style: italic;
+}
+h1 {
+    font-size:50;
+}
+#text {
+    color:aliceblue
+}
+.privet_div{
+    border: 1px white solid;
+    border-radius: 15px;
+    margin-left: 430px;
+    margin-right: 430px;
+    padding:10px;
+}
+button{
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(3, 3, 3);
+    border-color: white;
+    font-size: 30px;
+    transition: all 0.3s ease;
+}
+button:hover{
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+    background-color: white;
+}
+.ingr_div{
+    border: 1px white solid;
+    border-radius: 15px;
+    margin-left: 800px;
+    margin-right: 800px;
+    padding:10px;
+}
+.muka_div{
+    border: 1px white solid;
+    border-radius: 15px;
+    margin-left: 430px;
+    margin-right: 430px;
+    padding:10px;
+}
+.sahar_div{
+    border: 1px white solid;
+    border-radius: 15px;
+    margin-left: 430px;
+    margin-right: 430px;
+    padding:10px;
+}
+.yayco_div{
+    border: 1px white solid;
+    border-radius: 15px;
+    margin-left: 430px;
+    margin-right: 430px;
+    padding:10px;
+}
+.moloko_div{
+    border: 1px white solid;
+    border-radius: 15px;
+    margin-left: 430px;
+    margin-right: 430px;
+    padding:10px;
+}
+.maslo_div{
+    border: 1px white solid;
+    border-radius: 15px;
+    margin-left: 430px;
+    margin-right: 430px;
+    padding:10px;
+}
+.kakao_div{
+    border: 1px white solid;
+    border-radius: 15px;
+    margin-left: 430px;
+    margin-right: 430px;
+    padding:10px;
+}
+.mixer_div{
+    border: 1px white solid;
+    border-radius: 15px;
+    margin-left: 430px;
+    margin-right: 430px;
+    padding:10px;
+}
+.testo_div{
+    border: 1px white solid;
+    border-radius: 15px;
+    margin-left: 430px;
+    margin-right: 430px;
+    padding:10px;
+}
+.mikro_div{
+    border: 1px white solid;
+    border-radius: 15px;
+    margin-left: 610px;
+    margin-right: 610px;
+    padding:10px;
+}
+.got_div{
+    border: 1px white solid;
+    border-radius: 15px;
+    margin-left: 430px;
+    margin-right: 430px;
+    padding:10px;
+}
+.istoch_div{
+    border: 1px white solid;
+    border-radius: 15px;
+    margin-left: 680px;
+    margin-right: 680px;
+    padding:10px;
+}
+img{
+    border-radius: 15px;
+}
